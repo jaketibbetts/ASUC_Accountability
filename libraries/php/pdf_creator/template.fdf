@@ -1,0 +1,44 @@
+%FDF-1.2
+%‚„œ”
+1 0 obj 
+<<
+/FDF 
+<<
+/Fields [
+<<
+/V (MEETINGS_ATTENDED)
+/T (Meetings Attended)
+>> 
+<<
+/V (CURRENT_PROJECTS)
+/T (Current Projects)
+>> 
+<<
+/V (NAME)
+/T (Name)
+>> 
+<<
+/V (TITLE)
+/T (Title)
+>> 
+<<
+/V (EXPENDITURES)
+/T (Expenditures)
+>> 
+<<
+/V (REPORT_WEEK)
+/T (Report Week)
+>> 
+<<
+/V (OTHER)
+/T (Other)
+>>]
+>>
+>>
+endobj 
+trailer
+
+<<
+/Root 1 0 R
+>>
+%%EOF

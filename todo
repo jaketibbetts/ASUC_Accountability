@@ -1,0 +1,16 @@
+-Fix database, ie people not submitting the correct report
+-Allow pdfs to be longer in certain cases
+-Move website over to Session based rather than Post based
+
+-Generate Linsha Qi's report for Jan 25 and send her a link to it
+-Fix Report being too long error 
+-Daemon for Database backup to remote server //Daily
+-Daemon for Code backup to remote server  //Weekly
+-Daemon for Reminder Autoemailer //3 days and 1 day before the report is due at (?) 12pm
+-Daemon for sending reminders to send in late reports //Daily after the deadline
+-Daemons for generate absent and late report notices to admin //Weekly
+	-This script should also be runnable at anytime for specific cases 
+-Daemon for emailing the created zip file to an admin review and upload to google drive//Weekly (Every Friday?)
+	-Zip file creation already written
+-Rewrite pdf_creator and create_drive_uploadable in shell
+-Absense Forms

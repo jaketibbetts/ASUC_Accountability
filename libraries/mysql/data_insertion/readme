@@ -1,0 +1,5 @@
+These scripts should only be used when inserting new data into the tables
+
+For example, when we want to add a new set of reporting periods, use the script reporting_periods.php
+
+These scripts should never be publicly accessible because they will add extra data that we will not want
